@@ -3,10 +3,11 @@ A Playground to add your Open Source Ideas and learn about Open Source community
 
 # Format
 ## Your Name
-- Project title:
-- Description:
-- Author:
-- LinkedIn URL:
+- Project title: OpenWeb
+- Description: This open source project focuses primarily on web development, allowing for the incorporation of new UI designs and UX code into the development process.
+- Author: Ch Premsai Varma
+- LinkedIn URL: https://www.linkedin.com/in/premsaivarma/
+- Github Profile: https://github.com/premsaivarmachekuri
 
 # Awesome Contributors
 <a href="https://github.com/VizagOSM/playground/graphs/contributors">
@@ -14,3 +15,4 @@ A Playground to add your Open Source Ideas and learn about Open Source community
 </a>
 
 Made with [contrib.rocks](https://contrib.rocks).
+
