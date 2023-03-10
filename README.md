@@ -2,7 +2,7 @@
 A Playground to add your Open Source Ideas and learn about Open Source community, culture, and practices on the go!
 
 # Format
-## Your Name
+## Premsai Varma
 - Project title: OpenWeb
 - Description: This open source project focuses primarily on web development, allowing for the incorporation of new UI designs and UX code into the development process.
 - Author: Ch Premsai Varma
